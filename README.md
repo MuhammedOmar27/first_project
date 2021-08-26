@@ -2,4 +2,4 @@
 welcome back 
 
 
-##I love you son of bitch
+## hey welcome to my class
