@@ -23,5 +23,17 @@ this is the second line
 2.third second
     3. the last
 * the END
-*the end1 
-*the end2
+    * the end1 
+    * the end2
+` this is code `
+```cpp
+#include<iostream>
+using namespace std;
+int main(){
+int m;
+cin>>m;
+cout<<m<<endl;
+return 0;
+cin.get();
+}
+```
