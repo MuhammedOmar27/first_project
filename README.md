@@ -1,4 +1,4 @@
-# first_project
+# first_project 
 welcome back 
 ###### i'm try to write it hav#e
 this is the second line
@@ -37,3 +37,8 @@ return 0;
 cin.get();
 }
 ```
+[ samsung galaxy A52 ]( https://mobizil.com/samsung-galaxy-a52-specs/ )
+![photo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+___get it___
+***hey***
+[one piece]()
