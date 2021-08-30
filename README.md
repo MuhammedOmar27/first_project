@@ -43,10 +43,16 @@ ___get it___
 ***hey***
 - [x] welcome
 ##### end line
-muhammed : was a student in faculty of computers and information
+muhammed 
+: was a student in faculty of computers and information
 # M
 |student name| student score | GPA |
 |:--|:--:|:--:|
 |A|90|2.7|
 |B|80|2.4|
 |C|70|2|
+
+white beard.
+monkey d luffy.
+monkey d dragon.
+monkey d garb.
